@@ -17,7 +17,9 @@ module.exports = async function (params, context, logger) {
 
   // logger.info(1)
   // logger.info(2)  
-  logger.info(3)
+  // logger.info(3)
+  logger.info(4)
+
 
   
 }
