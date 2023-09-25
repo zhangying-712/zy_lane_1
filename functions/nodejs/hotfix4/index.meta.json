@@ -1,0 +1,15 @@
+{
+  "apiID": "package_1b5943__c__function_aadfbq7nwfumq",
+  "apiName": "hotfix4",
+  "label": {
+    "zh_CN": "hotfix4",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
